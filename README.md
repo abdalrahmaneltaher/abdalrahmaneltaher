@@ -1,10 +1,6 @@
 # Hi there, I'm Abdelrahman Ali El-Taher 👋
 
 💻 **Digital IC Design & Verification Engineer**  
-Specialized in creating high-performance, reliable, and power-efficient silicon solutions.  
-Proficient in RTL architecture, synthesis, timing closure, and functional verification using SystemVerilog/UVM.  
-Passionate about delivering optimized hardware designs that meet speed, area, and power targets.
-
 ---
 
 ## 🛠️ Skills & Tools
