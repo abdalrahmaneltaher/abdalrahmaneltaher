@@ -1,74 +1,43 @@
-# Abdelrahman El-Taher
+# Hi there, I'm Abdelrahman Ali El-Taher 👋
 
-> **Digital Design & Verification Engineer — Intern**
-
-<div align="center">
-
-<img src="https://github.com/your-github-username/your-repo/raw/main/images/hellocoders_rounded.gif" alt="Hello Coders" width="60%" />
-<br>
-<img src="https://github.com/your-github-username/your-repo/raw/main/images/dev-working_rounded.gif" alt="Workspace" width="40%" />
-
-</div>
+💻 **Digital IC Design & Verification Engineer**  
+Specialized in creating high-performance, reliable, and power-efficient silicon solutions.  
+Proficient in RTL architecture, synthesis, timing closure, and functional verification using SystemVerilog/UVM.  
+Passionate about delivering optimized hardware designs that meet speed, area, and power targets.
 
 ---
 
-## 👋 About Me
+## 🛠️ Skills & Tools
 
-I’m **Abdelrahman El-Taher** — a Digital Design & Verification Engineer in training. My passion is in RTL design, writing testbenches, and ensuring the functional correctness of digital systems on FPGA/ASIC.
+### Languages & HDLs
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge&logo=verilog&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge&logo=verilog&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-4B0082?style=for-the-badge&logo=vhdl&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-- 🔭 Currently working on Verilog / SystemVerilog projects and testbenches (QuestaSim / ModelSim).
-- 🌱 Learning synthesis, timing closure, and UVM.
-- 💬 Can communicate in both Arabic and English.
+### Tools & EDA Software
+![Xilinx Vivado](https://img.shields.io/badge/Vivado-FF6600?style=for-the-badge&logo=xilinx&logoColor=white)
+![QuestaSim](https://img.shields.io/badge/QuestaSim-008080?style=for-the-badge&logo=mentor&logoColor=white)
+![ModelSim](https://img.shields.io/badge/ModelSim-006400?style=for-the-badge&logo=mentor&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 🛠️ Skills
-
-- **RTL Languages:** Verilog, SystemVerilog
-- **Verification:** UVM, SVA, functional verification, testbench development
-- **EDA Tools:** Vivado, QuestaSim, ModelSim
-- **Support:** Python (scripts, automation), Bash, Git
-- **FPGA/ASIC Design:** constraints (XDC), synthesis, floorplanning, timing analysis
-
----
-
-## 🧰 Tools (Badges)
-
-![Verilog](https://img.shields.io/badge/Verilog-%23f0db4f.svg?style=flat)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23007ACC.svg?style=flat)
-![Vivado](https://img.shields.io/badge/Vivado-%234C4CFF.svg?style=flat)
-![QuestaSim](https://img.shields.io/badge/QuestaSim-%23000000.svg?style=flat)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat)
+### Specialties
+- RTL Design & Implementation
+- Functional Verification (SystemVerilog/UVM)
+- FPGA Prototyping
+- CDC & Timing Closure
+- Linting & Debugging
+- Synthesis & Optimization
 
 ---
 
-## 📂 Projects
-
-### ALSN — Arithmetic & Logic Shift Network
-- Verilog module implementing arithmetic and logic operations with shift/rotate support.
-- Full testbench verification using QuestaSim.
-- Status: In progress.
-
-### DSP48A1-like
-- Custom module emulating DSP48A1 features: MAC operations, muxing, and pipelining.
-- Includes thorough timing and behavioral tests.
-
-### SPI-FSM Wrapper
-- Simple SPI interface with FSM for board-level read/write operations.
+## 📫 Contact Me
+- **LinkedIn:** [linkedin.com/in/abdelrahman-taher](https://linkedin.com/in/abdelrahman-taher)
+- **Email:** your.email@example.com  
+- **GitHub:** [github.com/Abdelrahman-Taher](https://github.com/Abdelrahman-Taher)
 
 ---
+⭐ *Always learning, always building.*
 
-## 📫 Contact
-
-- GitHub: `https://github.com/your-github-username`
-- Telegram: `https://t.me/your-telegram`
-- Email: `your.email@example.com`
-
----
-
-## ✅ Before Uploading to GitHub
-
-1. Replace `your-github-username`, `your-repo`, and contact details.
-2. Upload your GIFs/images to an `images` folder in the repo.
-3. Save as `README.md` in the root of your repository.
