@@ -35,8 +35,8 @@ Passionate about delivering optimized hardware designs that meet speed, area, an
 
 ## 📫 Contact Me
 - **LinkedIn:** [linkedin.com/in/abdelrahman-taher](https://www.linkedin.com/in/abdalrahman-eltaher/)
-- **Email:** your.email@example.com  
-- **GitHub:** [github.com/Abdelrahman-Taher](https://github.com/Abdelrahman-Taher)
+- **Email:** abdotahir1200199@gmail.com 
+- **GitHub:** [github.com/Abdelrahman-Taher](https://github.com/abdalrahmaneltaher)
 
 ---
 ⭐ *Always learning, always building.*
